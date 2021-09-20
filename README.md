@@ -3,4 +3,4 @@ Powershell script created with the intention of being ran against a directory of
 
 If you've worked for the DoD and have to STIG anything or keep track of the STIG numbers for your organization, this script was made for you. It is a good way to compare raw numbers from checklists to whatever you're using to track said numbers.
 
-Just another useful STIG tool to use imo if you're serious about tracking compliance.
+Just another useful STIG tool to use if you're serious about tracking compliance.
