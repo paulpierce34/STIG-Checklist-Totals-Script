@@ -1,4 +1,4 @@
-﻿## Authored by: Jean-Luc DeJean
+﻿## Authored by: JLD
 ## Purpose: To grab the total amount of CAT I, II, III   from a directory of checklists.
 ## Output: Script outputs a .txt file in C:\Temp\ with totals         
 
