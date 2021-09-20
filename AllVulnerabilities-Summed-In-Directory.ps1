@@ -7,8 +7,6 @@
 
 $DirPath = ""  ## Provide the directory of checklists to look through
 
-$OutputType = "CSV"   ## .txt output by default
-
 ## END MAKE CHANGES SECTION ##
 
 
